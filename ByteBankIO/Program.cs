@@ -4,7 +4,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        CriarArquivo();
+        UsandoStreamEntrada();
         Console.ReadLine();
     }
 

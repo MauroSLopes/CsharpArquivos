@@ -17,6 +17,7 @@ partial class Program
             using (var escritor = new StreamWriter(fluxoDeArquivo))
             {
                 escritor.WriteLine("666, 2564, 1215.24, Mauro");
+                escritor.Flush();
             }
         }
     }

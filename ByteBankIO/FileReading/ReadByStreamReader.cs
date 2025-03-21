@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ByteBankIO;
+﻿using ByteBankIO;
 
-    partial class Program
+partial class Program
     {
         static void LerArquivo()
         {
